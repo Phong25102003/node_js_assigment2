@@ -1,0 +1,4 @@
+- Thêm, sửa, xóa sản phẩm (validate)
+- Thêm, sửa, xóa danh mục (validate)
+- Login, register
+- Hiển thị danh sách sản phẩm, danh mục

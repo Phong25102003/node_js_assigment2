@@ -1,0 +1,24 @@
+.product-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .product-item {
+    margin: 20px 10px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 250px;
+  }
+  
+  .product-image {
+    width: 200px;
+    height: 280px;
+  }
+  
+  .product-name {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
